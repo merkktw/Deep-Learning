@@ -17,9 +17,9 @@
 
 > 方法 (c) 的副作用：初始化時後面的層被殘差連結主導，因此接近在計算恆等映射（identity）。
 
-<!-- 若要放原書截圖，把圖片放進 image/ 資料夾後取消下一行註解：
+
 ![Figure 11.6 — Variance in residual networks](image/fig11-6.png)
--->
+
 
 ---
 
